@@ -11,8 +11,8 @@
 - **Elemen Unik:** Menggunakan metafora "Kucing dan Singa" untuk menjelaskan perkembangan karakter (proses belajar dari pemalu menjadi pemimpin/trainer).
 
 ## Fitur yang Direncanakan
-1. **Hero Section:** Perkenalan singkat sebagai Computer Engineering graduate.
-2. **About Me:** Penjelasan mengenai latar belakang pendidikan di Universitas Wiralodra dan keahlian di JavaBackend/DevOps.
+1. **Profil:** Perkenalan singkat sebagai Computer Engineering graduate.
+2. **Proyek:** Penjelasan mengenai proyek yang sudah dibuat.
 3. **Experience/Skills:** Daftar tech stack (Figma, Canva, Java, Cloud Computing).
 4. **Contact:** Link LinkedIn, Gmail, dan GitHub.
 
